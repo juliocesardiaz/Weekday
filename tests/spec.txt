@@ -1,0 +1,3 @@
+First spec is to test if input of date returns day of the week
+	Input1: 7	Input2: 12	Input3: 1278
+	Output: "Wednesday"
